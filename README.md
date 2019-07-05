@@ -1,4 +1,5 @@
 # DogBreedClassifier
+![Image](https://github.com/NishitSingh2023/DogBreedClassifier/blob/master/images/Labrador_retriever_06457.jpg)
 
 ## It's a classifier that detects dog breed given a pic of dog
 
